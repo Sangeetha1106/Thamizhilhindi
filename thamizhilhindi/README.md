@@ -1,4 +1,4 @@
-# THAMIZHILHINDI – அழகு தமிழில் ஹிந்தி பழகு
+﻿# THAMIZHILHINDI – அழகு தமிழில் ஹிந்தி பழகு
 ### Learn Spoken Hindi Easily Through Tamil | Matrix Media
 
 A modern, responsive, and educational website for **THAMIZHILHINDI**, built exclusively with **HTML5 & CSS3** following a modern light theme aesthetic inspired by the original brand identity.
@@ -12,7 +12,7 @@ A modern, responsive, and educational website for **THAMIZHILHINDI**, built excl
 - **Tagline:** அழகு தமிழில் ஹிந்தி பழகு (*Learn Spoken Hindi Easily Through Tamil*)
 - **Supporting Text:** ஹிந்தியில் இனி எளிதில் பேசலாம்!
 - **Founder's Experience:** 30+ Years of Hindi Teaching Experience
-- **Direct Contact / WhatsApp:** [+91 9500 475 475](https://wa.me/919500475475)
+- **Direct Contact / WhatsApp:** [+91 9500 475 475](https://wa.me/919444700048)
 - **Official Website:** [thamizhilhindi.com](https://thamizhilhindi.com/)
 
 ---
